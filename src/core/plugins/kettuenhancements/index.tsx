@@ -8,7 +8,7 @@ export default defineCorePlugin({
         spec: 3,
         main: "",
         display: {
-            name: "Kettu Enhancements",
+            name: "Moddy Enhancements",
             description: "Fixes common discord bugs because discord wont",
             authors: [{ name: "cocobo1"}]
         }
